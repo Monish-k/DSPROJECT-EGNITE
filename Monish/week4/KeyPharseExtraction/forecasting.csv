@@ -1,0 +1,187 @@
+Title,Year,Month,Day,Hour
+forecasting large collections of time series,2018,12,10,10
+data science book review: superforecasting,2017,6,18,20
+what is forecasting?,2021,6,3,0
+monash time series forecasting archive,2021,5,17,0
+quantile forecasting with ensembles and combinations,2021,5,11,0
+principles and algorithms for forecasting groups of time series: locality and globality,2021,5,10,0
+forecasting elements that stand the test of time,2021,5,6,0
+forecasting podcasts,2021,4,14,0
+forecasting the old-age dependency ratio to determine a sustainable pension age,2021,3,26,0
+forecasting for social good,2021,3,2,0
+forecasting impact podcast,2021,2,6,0
+forecasting swiss exports using bayesian forecast reconciliation,2021,1,1,0
+hierarchical probabilistic forecasting of electricity demand with smart meter data,2021,1,1,0
+nonlinear mixed effects models for time series forecasting of smart meter demand,2021,1,1,0
+call for papers: innovations in hierarchical forecasting,2020,10,26,0
+contraceptive forecasting competition,2020,7,24,0
+forecasting the future & the future of forecasting,2020,5,27,0
+forecasting covid-19,2020,3,22,0
+tidy time series & forecasting in r,2020,1,27,0
+hierarchical forecasting,2020,1,6,0
+forecasting in social settings: the state of the art,2020,1,2,0
+a brief history of forecasting competitions,2020,1,1,0
+machine learning applications in time series hierarchical forecasting,2019,12,8,0
+non-gaussian forecasting using fable,2019,10,17,0
+tidy forecasting in r,2019,9,29,0
+forecasting is not prophecy: dealing with high-dimensional probabilistic forecasts in practice,2019,8,21,0
+advancing forecasting research and practice,2019,6,19,0
+"translations of ""forecasting: principles and practice""",2019,4,23,0
+post-docs in wind and solar power forecasting,2019,2,21,0
+feature-based forecasting algorithms for large collections of time series,2019,1,25,0
+macroeconomic forecasting for australia using a large number of predictors,2019,1,1,0
+network for early career researchers in forecasting,2018,12,22,0
+forecasting competitions,2018,11,30,0
+m4 forecasting conference,2018,11,28,0
+forecasting the future of the power industry: what can you learn from smart meter data?,2018,9,18,0
+crude oil price forecasting based on internet concern using an extreme learning machine,2018,8,9,0
+acems forecasting workshop,2018,7,26,0
+tidy forecasting in r,2018,7,13,0
+forecasting: principles and practice (nyc),2018,6,25,0
+tidy forecasting in r,2018,6,19,0
+forecasting in nyc: 25-27 june 2018,2018,4,23,0
+a brief history of time series forecasting competitions,2018,4,11,0
+r package for m4 forecasting competition,2018,3,26,0
+exploring the sources of uncertainty: why does bagging for time series forecasting work?,2018,2,4,0
+m4 forecasting competition update,2017,12,22,0
+m4 forecasting competition: response from spyros makridakis,2017,11,20,0
+m4 forecasting competition,2017,11,19,0
+2017 beijing workshop on forecasting,2017,11,18,0
+2017 beijing workshop on forecasting,2017,11,1,0
+forecasting: principles and practice (uwa),2017,9,26,0
+visualizing and forecasting big time series data,2017,8,11,0
+forecasting workshop in perth,2017,7,30,0
+my new datacamp course: forecasting using r,2017,6,1,0
+time series in r: forecasting and visualisation,2017,5,29,0
+forecasting with temporal hierarchies,2017,5,13,0
+grouped functional time series forecasting: an application to age-specific mortality rates,2017,4,25,0
+follow-up forecasting forum,2017,4,18,0
+probabilistic energy forecasting for smart grids and buildings,2017,3,21,0
+follow-up forecasting forum in eindhoven,2017,3,7,22
+forecasting practitioner talks at isf 2017,2017,2,2,23
+visualising forecasting algorithm performance using time series instance spaces,2017,1,12,21
+ijf tao hong award for the best paper in energy forecasting 2013-2014,2017,1,11,4
+invited sessions at the international symposium on forecasting,2016,11,28,6
+tourism forecasting competition data as an r package,2016,10,22,11
+forecasting using r (eindhoven),2016,10,19,0
+gefcom2017: hierarchical probabilistic load forecasting,2016,10,14,14
+call for forecasting workshops in cairns  australia,2016,9,28,15
+forecasting large collections of related time series,2016,9,15,0
+sponsorship for the cairns forecasting conference,2016,8,31,2
+the thief package for r: temporal hierarchical forecasting,2016,8,22,7
+forecasting with r short course in eindhoven,2016,8,18,0
+automatic forecasting using r,2016,5,6,5
+making forecasting easier: forecast v7 for r,2016,2,18,0
+electricity price forecasting competition,2016,2,17,5
+forecasting uncertainty in electricity smart meter data by boosting additive quantile regression,2016,2,4,4
+probabilistic energy forecasting: global energy forecasting competition 2014 and beyond,2016,1,25,0
+forecasting big time series data using r,2015,10,24,23
+google workshop: forecasting and visualizing big time series data,2015,10,5,6
+international symposium on forecasting: spain 2016,2015,9,21,9
+ijf vol 31(4): forecasting in telecommunications and ict,2015,9,15,9
+automatic algorithms for time series forecasting,2015,6,24,23
+mefm: an r package for long-term probabilistic forecasting of electricity demand,2015,6,22,23
+probabilistic forecasting of peak electricity demand,2015,6,18,23
+probabilistic time series forecasting with boosted additive models: an application to smart meter data,2015,6,4,11
+probabilistic forecasting of long-term peak electricity demand,2015,5,22,7
+visualization and forecasting of big time series data,2015,2,23,1
+visualizing and forecasting big time series data,2015,1,12,15
+new r package for electricity forecasting,2014,12,17,6
+forecasting: principles and practice (uwa course),2014,9,23,3
+tim harford on forecasting,2014,9,8,10
+forecasting with r in wa,2014,8,24,22
+gefcom 2014 energy forecasting competition is underway,2014,8,18,5
+student forecasting awards from the iif,2014,7,26,3
+coherent population forecasting using r,2014,7,24,2
+challenges in forecasting peak electricity demand,2014,6,17,6
+low-dimensional decomposition  smoothing and forecasting of sparse functional data,2014,6,5,3
+common functional principal component models for mortality forecasting,2014,5,24,1
+monash electricity forecasting model,2014,5,22,1
+seven forecasting blogs,2014,4,22,0
+my forecasting book now on amazon,2014,4,9,0
+a gradient boosting approach to the kaggle load forecasting competition,2014,4,1,4
+cover of my forecasting textbook,2014,3,18,6
+probabilistic forecasting by gneiting and katzfuss (2014),2014,3,14,5
+forecasting weekly data,2014,3,4,23
+forecasting within limits,2014,2,21,10
+global energy forecasting competitions,2014,2,19,7
+automatic time series forecasting,2014,2,13,1
+hierarchical forecasting with hts v4.0,2014,2,12,8
+top papers in the international journal of forecasting,2014,2,4,1
+automatic time series forecasting in granada,2014,1,31,3
+judgmental forecasting experiment,2013,12,22,6
+probabilistic energy forecasting,2013,10,14,4
+coherent mortality forecasting using functional time series,2013,10,11,5
+forecasting hierarchical time series,2013,10,10,5
+forecasting with daily data,2013,9,17,0
+forecasting without forecasters,2013,6,24,14
+forecasting annual totals from monthly data,2013,5,15,6
+my new forecasting book is finally finished,2013,4,21,0
+forecasting conferences,2013,2,15,1
+coherent mortality forecasting: the product-ratio method with functional time series models,2013,2,1,7
+batch forecasting in r,2013,1,7,5
+forecasting research grants,2012,10,3,0
+multivariate time series modelling and forecasting workshop,2012,9,3,6
+recursive and direct multi-step forecasting: the best of both worlds,2012,9,1,20
+forecasting the olympics,2012,7,31,0
+advances in automatic time series forecasting,2012,6,19,8
+my new forecasting textbook,2012,5,23,1
+short-term load forecasting based on a semi-parametric additive model,2012,2,1,6
+forecasting time series with complex seasonal patterns using exponential smoothing,2011,12,31,2
+are we getting better at forecasting?,2011,12,23,4
+forecasting time series using r,2011,12,16,2
+forecasting time series using r,2011,10,27,4
+forecasting electricity demand distributions using a semiparametric additive model,2011,10,3,3
+help for forecasting practitioners,2011,9,25,13
+tourism forecasting: an introduction,2011,4,29,9
+nonparametric time series forecasting with dynamic updating,2011,2,17,1
+the value of feedback in forecasting competitions,2011,2,9,5
+six places left for the forecasting workshop,2011,1,11,0
+the tourism forecasting competition,2011,1,1,22
+forecasting workshop: switzerland  june 2011,2010,12,6,8
+tourism forecasting competition ends,2010,11,24,12
+free open-source forecasting using r,2010,11,20,12
+the vector innovations structural time series framework: a simple approach to multivariate forecasting,2010,11,15,23
+forecasting with long seasonal periods,2010,9,29,5
+tourism forecasting competition results: part one,2010,9,20,9
+demographic forecasting using functional data analysis,2010,9,7,11
+benchmarks for forecasting,2010,8,25,11
+the tourism forecasting competition,2010,8,9,5
+short-term load forecasting based on a semi-parametric additive model,2010,7,21,9
+forecasting with exponential smoothing: the state space approach,2010,7,6,12
+forecasting: methods and applications,2010,7,6,12
+forecasting age-related changes in breast cancer mortality among white and black us women,2010,5,6,1
+density forecasting for long-term peak electricity demand,2010,1,2,23
+business forecasting methods,2010,1,1,4
+forecasting overview,2010,1,1,4
+forecasting the recession,2009,8,17,22
+forecasting functional time series,2009,7,23,23
+nonparametric time series forecasting with dynamic updating,2009,7,12,23
+extreme forecasting,2009,6,23,3
+rule induction for forecasting method selection: meta-learning the characteristics of univariate time series,2009,1,16,23
+forecasting time series with multiple seasonal patterns,2008,11,16,5
+forecasting without significance tests?,2008,11,5,1
+forecasting and the importance of being uncertain,2008,7,18,3
+automatic time series forecasting: the forecast package for r,2008,7,16,5
+time series and forecasting in r,2008,6,29,4
+forecasting and time series books,2008,4,28,7
+dodgy forecasting,2008,3,13,4
+forecasting functional time series,2008,2,22,7
+modelling and forecasting australian domestic tourism,2008,2,1,6
+population forecasting and the importance of being uncertain,2007,11,27,7
+robust forecasting of mortality and fertility rates: a functional data approach,2007,7,16,5
+forecasting medium- and long-term peak electricity demand,2007,6,25,8
+minimum sample size requirements for seasonal forecasting models,2007,3,16,5
+forecasting age-specific breast cancer mortality using functional data models,2007,2,16,5
+forecasting and the importance of being uncertain,2006,10,26,8
+lee-carter mortality forecasting: a multi-country comparison of variants and extensions,2006,10,20,4
+25 years of time series forecasting,2006,7,16,4
+twenty-five years of forecasting,2006,7,15,8
+automatic time series forecasting,2006,6,26,8
+empirical information criteria for time series forecasting model selection,2005,10,16,3
+stochastic models underlying croston's method for intermittent demand forecasting,2005,7,16,4
+robust forecasting of mortality and fertility rates: a functional data approach,2005,4,16,1
+time series forecasting: the case for the single source of error state space approach,2005,4,2,1
+a state space framework for automatic forecasting using exponential smoothing methods,2002,7,16,3
+paris machine learning meetup #1 season 7: neuroscience & ai  time series  deep transfert learning in nlp  media campaign  energy forecasting,2019,11,13,14
+gradient flow snapshot #57: monitoring machine learning models; greykite for time-series forecasting,2021,6,4,14
