@@ -1,0 +1,20 @@
+the biggest investment in database history, the biggest social network ever, and other graph stories from neo4j
+timescale scales out and sets its sights on analytics
+datastax launches beta of astra streaming service
+where is ibm’s hybrid cloud launchpad?
+quest enhances its erwin data modeling and data intelligence platforms
+grafana 8.0 integrates with prometheus alerting
+machine learning at the edge: tinyml is getting big
+dremio's dart initiative further consolidates lake and warehouse paradigms
+amazon documentdb adds global clusters
+what’s next for cloudera?
+databricks ups ai ante with new automl engine and feature store
+databricks rolls out data sharing, automated pipelines, data catalog
+a closer look at google’s spring data and analytics rollouts
+build 2021: microsoft reveals enhancements to power bi, cosmos db
+superconductive scores $21m series a funding to sustain growth of its great expectations
+cockroachdb simplifies multi-region deployment
+it's all about the data: explorium's bet pays off in $75m series c funding
+percona takes first steps toward hybrid cloud
+a closer look at ibm autosql
+ottertune sets out to auto tune all the databases

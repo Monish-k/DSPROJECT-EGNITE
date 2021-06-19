@@ -1,0 +1,10 @@
+w. edwards deming’s contributions to the practice of analytics
+lessons from the ever given and archegos: four ways predictive models fail
+profiles in analytics: frank knight
+how to navigate the challenging journey from an ai algorithm to an ai product
+three reasons all corporate boards need someone who understands both analytic innovation and analytic strategy
+five steps to improve the analytic maturity of your company – 2021 edition
+machine learning vs ai business models – what’s new with the economics of ai?
+why great machine learning models are never enough: three lessons about data science from dr. foege’s letter
+do you need a grand strategy in analytics?
+when you need to deploy predictive models safely

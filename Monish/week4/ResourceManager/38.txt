@@ -1,0 +1,10 @@
+properties of interpretability
+goals of interpretability
+interacting with ml models
+lstms
+rolling and unrolling rnns
+continuous bayes’ theorem
+the tensorflow perspective on neural networks
+neural networks, linear transformations and word embeddings
+recurrent neural networks
+gpus and neural networks

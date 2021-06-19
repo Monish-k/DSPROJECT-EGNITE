@@ -1,0 +1,25 @@
+distributionally robust contextual bandit learning
+convex-concave games off the shelf
+iclr 2019 thoughts
+rl will disrupt or
+pytorch pu learning trick
+nips conversation ai workshop
+icml 2017 thoughts
+rational inexuberance
+tiered architectures, counterfactual learning, and sample complexity
+why now is the time for dialog
+software engineering vs machine learning concepts
+reinforcement learning and language support
+reinforcement learning as a service
+generating text via adversarial training
+on the sustainability of open industrial research
+dialogue workshop recap
+nips 2016 reflections
+learning methods for dialog workshop at nips this saturday
+nips dialogue workshop
+update on dialogue progress
+icml 2016 thoughts
+accelerating progress in dialogue
+thoughts on reviewing
+the future has more co-authors
+attention: more musings

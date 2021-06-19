@@ -1,0 +1,10 @@
+thank you
+happy holidays from svds
+crossing the development to production divide
+q&a: on being data-driven
+managing uncertainty
+analyzing sentiment in caltrain tweets
+learning from imbalanced classes
+exploring the possibilities of artificial intelligence
+merging data science and business
+handling small files in mapr-fs

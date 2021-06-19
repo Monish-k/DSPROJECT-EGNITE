@@ -1,0 +1,10 @@
+negotiating the data science job salary. should you do that? how do you do that?
+data cleaning and exploratory data analysis using the okcupid dataset (part 1)
+junior data scientist job interview questions (and how to answer them)
+beautiful soup tutorial 2. – how to scrape multiple web pages
+18 things you’ll learn about data science only on the job
+how to apply for a data science job and how to prepare for interviews
+beautiful soup tutorial 1. – an introduction to web scraping with python
+before you apply for a data science position… (resume, cover letter, website, github help)
+how to get a job in data science and analytics (episode #1)
+winning the kevin bacon game with sql: data science hobby project example

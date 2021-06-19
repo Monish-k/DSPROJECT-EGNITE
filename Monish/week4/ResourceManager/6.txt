@@ -1,0 +1,25 @@
+r user or r developer? panel discussion at user!2021
+9 new r books added 📚📚📚
+bubble chart in r-ggplot & plotly
+join appsilon at user! 2021 on july 5-9
+yield to maturity and reinvestment risk
+data science on blockchain with r
+shiny apps with docker compose, part 2: production
+funnel chart in r-interactive funnel plot
+hyperparameter tuning forecasts in parallel with modeltime
+summer conferences!
+r in supply chain management: meetup q&a
+conversions between different spatial classes in r
+step function regression in stan
+remove rows that contain all na or certain columns in r?
+exciting upcoming workshops ahead!
+will i get my money back? credit scoring with oner
+combinations using expand.grid
+archives
+data management
+regions package for eurostat sub-national statistics
+tags
+statistical reporting
+statistical science
+statistical workflow
+statistics
