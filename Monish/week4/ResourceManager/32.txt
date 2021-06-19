@@ -1,0 +1,10 @@
+how to deploy artificial intelligence in the industrial world
+chasing fermat’s last theorem
+dissecting diophantine equations
+understanding catalan’s conjecture
+what is empirical risk minimization
+measuring the stability of machine learning algorithms
+ergodicity in the world of iot
+cauchy sequences in the real world
+measuring the memory of time series data
+what is pareto optimality

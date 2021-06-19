@@ -1,0 +1,60 @@
+communal computing
+ai powered misinformation and manipulation at scale #gpt-3
+ai adoption in the enterprise 2021
+infotribes, reality brokers
+the next generation of ai
+product management for ai
+5 things on our data and ai radar for 2021
+where programming, ops, ai, and the cloud are headed in 2021
+our favorite questions
+ai product management after deployment
+how to set ai goals
+pair programming with ai
+why best-of-breed is a better choice than all-in-one platforms for data science
+bringing an ai product to market
+power, harms, and data
+ai, protests, and justice
+covid-19 and complex systems
+decision-making in a time of crisis
+machine learning and the production gap
+reclaiming the stories that algorithms tell
+what to do when ai fails
+practical skills for the ai product manager
+when models are everywhere
+how data privacy leader apple found itself in a data ethics catastrophe
+what you need to know about product management for ai
+the unreasonable importance of data preparation
+6 trends framing the state of ai and ml
+ai adoption in the enterprise 2020
+5 key areas for tech leaders to watch in 2020
+the state of data quality in 2020
+reinforcement learning for the real world
+8 ai trends we’re watching in 2020
+ai is computer science disguised as hard work
+why you should care about debugging machine learning models
+the road to software 2.0
+moving ai and ml from research into production
+there’s a path to an ai roi
+“ai is a lie”
+a world of deepfakes
+highlights from tensorflow world in santa clara, california 2019
+sticker recommendations and ai-driven innovations on the hike messaging platform
+“human error”: how can we help people build models that do what they expect
+personalization of spotify home and tensorflow
+tensorflow.js: bringing machine learning to javascript
+tfx: an end-to-end ml platform for everyone
+mlir: accelerating ai
+tensorflow hub: the platform to share and discover pretrained models for tensorflow
+tensorflow lite: ml for mobile and iot devices
+accelerating ml at twitter
+the latest from tensorflow
+tensorflow world 2019 opening keynote
+tensorflow community announcements
+highlights from the o’reilly artificial intelligence conference in london 2019
+when to trust ai
+when flying is cheaper than standing still
+machine learning challenges at linkedin: spark, tensorflow, and beyond
+accelerate with purpose
+the quest for high-quality data
+real-time ai for entity resolution
+the power of knowledge at scale

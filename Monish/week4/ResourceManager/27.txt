@@ -1,0 +1,10 @@
+ethics, logistic regression, and 0-1 loss
+becky’s and my annotation paper in tacl
+document classification with lucene
+lucene 4 essentials for text search and indexing
+new book: text processing in java
+canceled: help build a watson clone–participants sought for lingpipe code camp
+limits of floating point and the asymmetry of 0 and 1
+fokkens et al. on replication failure
+lingpipe incubator welcomes seer
+token lumpers and splitters: spider-man vs. superman

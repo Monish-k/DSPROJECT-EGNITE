@@ -1,0 +1,25 @@
+registration is open - deep learning autumn school at bar ilan university
+israeli ai week - call for talks ending aug 1st
+allen institue opens an israeli branch
+upcoming data science events in israel
+hacking deep learning (bar ilan) workshop videos
+uai 2019 is coming to tel aviv
+alibaba acquires data artisans?
+apple shares turi create open source framework
+prof. joseph keshet from biu fools deep learning
+dataiku raised 28m$
+deepgram - audio search with deep learning
+some misc news
+data science summit europe 2017
+deep learning for cancer research
+amazing deep learning visualization
+tensorflow to support keras api
+pipeline.io - production environment to serve tensorflow models
+cryptonets: scoring deep learning on encrypted data
+neural networks for graphs
+a new machine learning podcast
+4th large scale recommender systems workshop - deadline extended
+graphlab create healthcare use case
+novomatic - comparing spark, pandas and dato
+prof. alex smola moves to amazon
+rsa fraud in social media report

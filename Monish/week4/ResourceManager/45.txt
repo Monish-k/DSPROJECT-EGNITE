@@ -1,0 +1,25 @@
+gradient flow snapshot #59: from cloud → sky computing; automation in dataops; top technology trends
+questioning the efficacy of neural recommendation systems
+gradient flow snapshot #58: delta live tables; knowledge graphs; data portability
+automation in data management and data labeling
+gradient flow snapshot #57: monitoring machine learning models; greykite for time-series forecasting
+reinforcement learning for the win
+gradient flow snapshot #56: airflow + ray; data warehouse → lakehouse; csv file → knowledge graph
+how companies are investing in ai risk and liability minimization
+gradient flow snapshot #55: reinforcement learning in the enterprise, knowledge graphs in finance
+the future of machine learning lies in better abstractions
+gradient flow snapshot #54: nlp index and getting read for new ai regulations
+why you should optimize your deep learning inference platform
+gradient flow snapshot #53: data validation for machine learning; modernizing data governance
+ai beyond automation
+gradient flow snapshot #52: data integration; language benchmarks; online resource allocation with ray
+injecting software engineering practices and rigor into data governance
+gradient flow snapshot #51: what is dataops; 2021 technology radar
+building a data store for unstructured data and deep learning applications
+free report: 2021 business at the speed of ai report
+gradient flow snapshot #50: data engineering jobs in the u.s; algorithms that make instacart roll
+how technology companies are using ray
+free report: 2020 nlp industry survey report
+gradient flow snapshot #49: data cascades; exploiting ml models; prisma migrate
+data quality is key to great ai products and services
+free report: 2021 trends in data and ai

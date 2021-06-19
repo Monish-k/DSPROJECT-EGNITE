@@ -1,0 +1,10 @@
+average: stepping stone of statistical analysis in data science
+the challenge of vanishing/exploding gradients in deep neural networks
+juicing out the diabetes patterns amongst indians using machine learning
+rule-based sentiment analysis in python
+data manipulation using pandas | essential functionalities of pandas you need to know!
+build an image classifier with svm!
+real-time data streaming using apache spark!
+text analysis with spacy to master nlp techniques
+embed powerbi report in jupyter notebook using “powerbiclient”
+web scraping with python for your data science project !

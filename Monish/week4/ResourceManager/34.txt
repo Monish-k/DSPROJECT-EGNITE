@@ -1,0 +1,10 @@
+heatmaply 1.0.0 – beautiful interactive cluster heatmaps in r
+registration for erum 2018 closes in two days!
+r 3.5.0 is released! (major release with many new features)
+r 3.4.3 is released (a bug-fix release)
+heatmaply: an r package for creating interactive cluster heatmaps for online publishing
+r 3.4.2 is released (with several bug fixes and a few performance improvements)
+r 3.4.1 is released – with some windows related bug-fixes
+r 3.4.0 is released – with new speed upgrades and bug-fixes
+shinyheatmaply – a shiny app for creating interactive cluster heatmaps
+r 3.3.3 is released!

@@ -1,0 +1,10 @@
+accelerating model velocity through snowflake java udf integration
+fitting support vector machines via quadratic programming
+ml internals: synthetic minority oversampling (smote) technique
+the future of data science – mining gtc 2021 for trends
+credit card fraud detection using xgboost, smote, and threshold moving
+ray for data science: distributed python tasks at scale
+on-demand spark clusters with gpu acceleration
+trending toward concept building – a review of model interpretability for deep neural networks
+choosing the right machine learning framework
+fireside chat: stig pedersen from topdanmark

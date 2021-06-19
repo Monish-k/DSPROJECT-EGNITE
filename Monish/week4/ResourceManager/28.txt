@@ -1,0 +1,10 @@
+differential evolution from scratch in python
+modeling pipeline optimization with scikit-learn
+gradient descent with adagrad from scratch
+gradient descent optimization with amsgrad from scratch
+gradient descent optimization with adamax from scratch
+a gentle introduction to premature convergence
+why optimization is important in machine learning
+a gentle introduction to function optimization
+one-dimensional (1d) test functions for function optimization
+line search optimization with python

@@ -1,0 +1,25 @@
+python script for requesting user input repeatedly
+dis-aggregated hardware
+open source networking: a hierarchical approach
+curious about 5g?
+ai, ml, nn and dl: a visual explanation
+the research process
+operationalize trusted ai with ibm watson openscale
+satellite imagery and remote sensing puzzles
+the world of languages
+producing a map with 5 lines of code
+ibm spss and entity analytics at work
+testing senzing's entity resolution workbench
+watson analytics, spss modeler and esri arcgis
+visualization of the 1854 london cholera outbreak
+what caused the challenger disaster?
+regression in r
+coefficient of alienation
+homoscedasticity and heteroscedasticity
+standard deviation versus absolute mean deviation
+basic statistics in r
+adding a .rdata file to dsx in 5 easy steps
+basic graphs in r
+advanced data preparation in r
+engine bleed air: a primer
+data preparation in r

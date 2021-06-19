@@ -1,0 +1,10 @@
+azurer update: new in may/june
+microsoft365r 2.1.0 with outlook support now on cran
+outlook client support in microsoft365r available for beta test
+teams support in microsoft365r
+microsoft365r: an r interface to the microsoft 365 suite
+azurecosmosr: interface to azure cosmos db
+what's new with azurer
+azure functions with r and plumber
+r at microsoft
+attend the create:data free online event, december 7

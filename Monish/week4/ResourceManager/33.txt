@@ -1,0 +1,10 @@
+liftoff: the basics of predictive model deployment
+hot video: more accuracy fallacies – predicting criminality and psychosis
+the precondition for machine learning success: bridge the quant/business culture gap
+hot video: the accuracy fallacy – bogus machine learning results
+explainable machine learning, model transparency, and the right to explanation
+machine learning’s missing link: business leadership
+six ways machine learning threatens social justice
+coursera’s “machine learning for everyone” fulfills unmet training requirements
+how machine learning works – in 20 seconds
+seven reasons budding data scientists need  a machine learning course that’s not hands-on

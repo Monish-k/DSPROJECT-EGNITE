@@ -1,0 +1,25 @@
+oracle function returns two values
+updated online chinese document analytics tool
+inventory optimization - calculate safety stock
+an online tool for analyzing chinese text
+real covid-19 death rate
+study on covid-19 annualized death rate
+querying database using command line client and powershell
+optimizing inventory level: reduce the inventory value and increase customer satisfaction simultaneously
+onsite interactive training session for data analysts/data scientists
+from hype to reality – powering the ai-driven future of insurance at insurance ai and analytics usa - by ira sopic
+about dr. zhou's oracle sql for data science course
+deep learning world
+predictive analytics world for industry 4.0
+analytics & ai in travel north america
+could not connect to amazon rds oracle database from car dealer wifi
+statistically manufactured personal data
+generate random string in oracle
+find the most frequent values
+remove the last word from a string using oracle sql
+find out table columns that are indexed
+oracle function based index is handy
+amazon rds oracle instance running out of disc space
+roulette wheel selection using sql
+generate serial number for existing table
+incrementally add new records to table

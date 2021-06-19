@@ -1,0 +1,10 @@
+calculating variance in the log domain
+back to basics: approximate bayesian computation
+three opinions on theorems
+exponential families cheatsheet
+statistics – the rules of the game
+a divergence bound for hybrids of mcmc and variational inference and …
+the second and third best features of lyx you aren’t using.
+you deserve better than two-sided finite differences
+sneaking up on bayesian inference (a fable in four acts)
+algorithmic dimensions

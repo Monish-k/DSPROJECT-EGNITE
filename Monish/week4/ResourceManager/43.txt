@@ -1,0 +1,5 @@
+interpreting the shapes of hazard functions in survival analysis
+member training: an introduction into the grammar of graphics
+what is a chi-square test?
+missing data mechanisms: a primer
+member training: writing study design and statistical analysis plans

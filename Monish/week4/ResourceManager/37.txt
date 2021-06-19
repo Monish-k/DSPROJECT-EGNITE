@@ -1,0 +1,10 @@
+blazing trails in teaching talend: meet rick sherman
+how to make a self-service bi tools deployment less painful
+tableau vs. power bi vs. qlik: how the bi rivals stack up
+modern data architecture—avoiding  the ‘one-tool-fits-all trap
+for bi, you must know the data integration process
+govern first, then ask many questions
+self-service bi on dm radio
+dataversity 2017
+azure sql data warehouse turns up the heat
+a firm foundation for modernized bi & analytics

@@ -1,0 +1,25 @@
+the akronomicon: an extreme-scale leaderboard
+virtual workshop: conceptual understanding of deep learning (may 17th 9am-4pm pst)
+randomized algorithms for scientific computing (rasc)
+the $1,000 gpt-3
+computing with light: how lighton intends to unlock transformative ai
+unveiling lighton appliance
+video: lighton unlocks transformative ai
+the awesome implicit neural representations highly technical reference page
+hardware beyond backpropagation: a photonic co-processor for direct feedback alignment
+diffraction-unlimited imaging based on conventional optical devices
+lighton at #neurips2020
+weight agnostic neural networks, a virtual presentation by adam gaier, thursday october 15th, lighton ai meetup #7
+as the world turns: implementations now on arxiv thanks to paper with code
+photonic computing for massively parallel ai is out and it is spectacular!
+tackling reinforcement learning with the aurora opu
+3-year phd studentship in inverse problems and optical computing, lighton, paris, france
+lighton cloud 2.0 featuring lighton aurora opus
+accelerating sars-cov2 molecular dynamics studies with optical random features
+au revoir backprop ! bonjour optical transfer learning !
+beyond overfitting and beyond silicon: the double descent curve
+lighton’s ai research workshop — form #4: the future of random matrices. thursday, december 19th
+ce soir: paris machine learning meetup #2 season 7: symbolic maths, data generation thru gan, "prevision retards" @sncf, retail and ai, rapids.ai leveraging gpus
+paris machine learning meetup #1 season 7: neuroscience & ai, time series, deep transfert learning in nlp, media campaign, energy forecasting
+paris machine learning meetup hors série #1: a talk with françois chollet hors série with françois chollet, (creator of the keras library)
+videos: ima computational imaging workshop, october 14 - 18, 2019

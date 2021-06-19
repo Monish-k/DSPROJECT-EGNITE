@@ -1,0 +1,10 @@
+random forest tutorial: predicting goals in football
+kernel density plots
+self-organizing maps tutorial
+layman’s guide to a/b testing
+time series analysis with generalized additive models
+artificial neural networks introduction (part ii)
+k-nearest neighbors & anomaly detection tutorial
+random forest tutorial: predicting crime in san francisco
+decision trees tutorial
+principal component analysis tutorial
