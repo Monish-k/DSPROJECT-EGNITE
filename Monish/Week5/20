@@ -1,0 +1,808 @@
+Seasonal functional autoregressive models
+Useful extensions for online books
+Understanding links between water-quality variables and nitrate concentration in freshwater streams using high-frequency sensor data
+STR: Seasonal-Trend decomposition using Regression
+What is forecasting?
+Fast forecast reconciliation using linear models
+Visualizing probability distributions across bivariate cyclic temporal granularities
+Situational assessment of COVID-19 in Australia
+Monash Time Series Forecasting Archive
+Time series cross-validation using fable
+Quantile forecasting with ensembles and combinations
+Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality
+Forecasting elements that stand the test of time
+Forecasting podcasts
+Seriously social podcast
+Dimension reduction for outlier detection using DOBIN
+Forecasting the old-age dependency ratio to determine a sustainable pension age
+Developing good research habits
+Forecasting for Social Good
+Manifold learning with approximate nearest neighbours
+Assessing mortality inequality in the US: What can be said about the future?
+Forecasting impact podcast
+Leave-one-out kernel density estimates for outlier detection
+Forecast reconciliation: A geometric view with new insights on bias correction
+The road to recovery from COVID-19 for Australian tourism
+Anomaly detection in high-dimensional data
+Forecasting Swiss Exports using Bayesian Forecast Reconciliation
+Hierarchical Probabilistic Forecasting of Electricity Demand with Smart Meter Data
+Nonlinear mixed effects models for time series forecasting of smart meter demand
+ASSA New Fellows Presentations
+Self-promotion for researchers
+Modern strategies for time series regression
+COVID-19 impacts on our energy system
+Ten years of forecast reconciliation
+Call for papers: Innovations in hierarchical forecasting
+Model selection in reconciling hierarchical time series
+Co-authorships for sale
+The geometry of forecast reconciliation
+Ensemble forecasts using fable
+Probabilistic forecast reconciliation: properties evaluation and score optimisation
+Contraceptive forecasting competition
+Distributed ARIMA Models for Ultra-long Time Series
+Podcast episode: the curious quant
+Estimating temporal variation in transmission of SARS-CoV-2 and physical distancing behaviour in Australia
+Spatial modelling of the two-party preferred vote in Australian federal elections: 2001-2016
+Early classification of spatio-temporal events using partial information
+Terminology matters
+Hierarchical forecast reconciliation with machine learning
+Forecasting the Future & the Future of Forecasting
+Seasonal mortality rates
+Excess deaths for 2020
+You are what you vote: the social and demographic factors that influence your vote
+GRATIS: GeneRAting TIme Series with diverse and controllable characteristics
+Anomaly detection in streaming nonstationary temporal data
+Optimal non-negative forecast reconciliation
+Why log ratios are useful for tracking COVID-19
+Developing good research habits
+Forecasting COVID-19
+On normalization and algorithm selection for unsupervised outlier detection
+Electricity demand data in tsibble format
+Hospital characteristics rather than surgical volume predict length of stay following colorectal cancer surgery
+How Rmarkdown changed my life
+Tidy time series & forecasting in R
+ABS time series as tsibbles
+Calendar-based graphics for visualizing people's daily schedules
+Hierarchical forecasting
+A new tidy data structure to support exploration and modeling of temporal data
+FFORMA: Feature-based Forecast Model Averaging
+Forecasting in social settings: the state of the art
+A brief history of forecasting competitions
+Machine learning applications in time series hierarchical forecasting
+Predicting the whole distribution with methods for depth data analysis demonstrated on a colorectal cancer treatment study
+The journal game
+Non-Gaussian forecasting using fable
+Forecasts are always wrong (but we need them anyway)
+Tidy forecasting in R
+Feature-based time series analysis
+Tidy time series analysis in R
+Tidy time series analysis in R
+A feature-based procedure for detecting technical outliers in water-quality data from in situ sensors
+Feature-based time series analysis
+Time series graphics using feasts
+Tidy time series data using tsibbles
+Predicting sediment and nutrient concentrations from high-frequency water-quality data
+Forecasting is not prophecy: dealing with high-dimensional probabilistic forecasts in practice
+High-dimensional time series analysis
+A feast of time series tools
+Advancing forecasting research and practice
+Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization
+Quantification of energy savings from energy conservation measures in buildings using machine learning
+Poll position: statistics and the Australian federal election
+You are what you vote
+Translations of "Forecasting: principles and practice"
+Revealing high-frequency trading provision of liquidity with visualization
+Developing good research habits
+Detection of cybersecurity attacks through analysis of web browsing activities using principal component analysis
+Time Series Data Library
+Post-docs in wind and solar power forecasting
+A framework for automated anomaly detection in high frequency water-quality data from in situ sensors
+Advice to PhD applicants
+Feature-based forecasting algorithms for large collections of time series
+forecast 8.5
+Macroeconomic forecasting for Australia using a large number of predictors
+Network for early career researchers in forecasting
+Why doesn't auto.arima() return the model with the lowest AICc value?
+Using ggplot2 for functional time series
+Data visualization for functional time series
+Seasonal functional autoregressive models
+High-dimensional time series analysis
+Forecasting competitions
+M4 Forecasting Conference
+Feature-based time series analysis
+Writing for Researchers
+Forecasting the future of the power industry: What can you learn from smart meter data?
+MeDaScIn 2018
+Developing good research habits
+Crude oil price forecasting based on internet concern using an extreme learning machine
+National Science Week Melbourne Mathematics Activities
+Saving ts objects as csv files
+ACEMS Forecasting Workshop
+UseR!2018 talks
+Seasonal decomposition of short time series
+Tidy forecasting in R
+Bivariate smoothing of mortality surfaces with cohort and period ridges
+Forecasting: principles and practice (NYC)
+A forecast ensemble benchmark
+Feature-based time series analysis
+Tidy forecasting in R
+Meta-learning how to forecast time series
+Forecasting in NYC: 25-27 June 2018
+Upcoming talks: May-July 2018
+forecast v8.3 now on CRAN
+A brief history of time series forecasting competitions
+High dimensional time series analysis
+R package for M4 Forecasting Competition
+Research++: what you should know about being a researcher but probably don't
+IJF Tao Hong Award 2018
+Exploring the sources of uncertainty: why does bagging for time series forecasting work?
+Visualizing big energy data
+A note on the validity of cross-validation for evaluating autoregressive time series prediction
+M4 Forecasting Competition update
+Probabilistic outlier detection and visualization of smart metre data
+Data Science for Managers: May 2018
+Trends in Indigenous mortality and life expectancy 2001-2015
+Some new time series packages
+M4 Forecasting Competition: response from Spyros Makridakis
+M4 Forecasting Competition
+2017 Beijing Workshop on Forecasting
+Come and work with me
+2017 Beijing Workshop on Forecasting
+High dimensional time series analysis
+Analysing sub-daily time series data
+Forecasting: principles and practice (UWA)
+High-dimensional time series
+Looking for a new research assistant
+rOpenSci OzUnconference coming to Melbourne
+Finding distinct rows of a tibble
+Biggish time series data
+Optimal forecast reconcilation
+Visualizing and forecasting big time series data
+Forecasting workshop in Perth
+Using data to tackle poverty
+IJF Best Paper Award 2017
+IIF Tao Hong Award 2016
+IIF Fellow Ralph Snyder
+Hex stickers for the forecast package
+Probabilistic outlier detection and visualization of smart metre data
+Why I'm not celebrating the 2016 impact factors
+Coherent Probabilistic Forecasts for Hierarchical Time Series
+My new DataCamp course: Forecasting Using R
+Time Series in R: Forecasting and Visualisation
+Prediction intervals for NNETAR models
+ISI Karl Pearson Prize for 2017
+Forecasting with temporal hierarchies
+Handgun acquisitions in California after two mass shootings
+Monthly seasonality
+Handgun acquisitions in California after two mass shootings
+Converting to blogdown
+Grouped functional time series forecasting: an application to age-specific mortality rates
+Follow-up Forecasting Forum
+Software for honours students
+Software for honours students
+Monash Rmarkdown templates on github
+A note on upper bounds for forecast-value-added relative to naïve forecasts
+Probabilistic energy forecasting for smart grids and buildings
+Academic phishing
+Follow-up forecasting forum in Eindhoven
+WOMBAT MeDaScIn 2017
+IJF Best Paper Award 2014-2015
+forecast 8.0
+Invited sessions at ISF2017
+Forecasters: bring your family to Cairns
+The Australian Macro Database
+The Australian Macro Database: An online resource for macroeconomic research in Australia
+Forecasting practitioner talks at ISF 2017
+Associations between outdoor fungal spores and childhood and adolescent asthma hospitalisations
+Simulating from a specified seasonal ARIMA model
+Dynamic Algorithm Selection for Pareto Optimal Set Approximation
+Visualising forecasting algorithm performance using time series instance spaces
+IJF Tao Hong Award for the best paper in energy forecasting 2013-2014
+What is going on?
+Exploring the influence of short-term temperature patterns on temperature-related mortality: a case-study of Melbourne Australia
+Cross-validation for time series
+Invited sessions at the International Symposium on Forecasting
+We're still hiring at Monash
+Q&A: predictive analytics
+Q&A time
+Tourism forecasting competition data as an R package
+Forecasting Using R (Eindhoven)
+GEFCom2017: Hierarchical Probabilistic Load Forecasting
+Reconciling forecasts: the hts and thief packages
+Come to Melbourne even if not to Monash
+Hadley Wickham Master R Developer course coming to Melbourne
+Call for forecasting workshops in Cairns Australia
+Eindhoven seminar on time series visualization
+Forecasting large collections of related time series
+Forecast intervals for aggregates
+R package forecast v7.2 now on CRAN
+R packages for forecast combinations
+Sponsorship for the Cairns forecasting conference
+Rmarkdown template for a Monash working paper
+The thief package for R: Temporal HIErarchical Forecasting
+"Forecasting with R" short course in Eindhoven
+Tourism time series repository
+Exploring time series collections used for forecast evaluation
+The latest IJF issue with GEFCom2014 results
+2017 International Symposium on Energy Analytics
+Forecast v7 (part 2)
+Explore Australian Elections Data with R
+SSA helping you find a job
+forecast v7 and ggplot2 graphics
+Automatic foRecasting using R
+Bagging exponential smoothing methods using STL decomposition and Box-Cox transformation
+Melbourne Data Science Initiative 2016
+Buy book
+Sample quantiles 20 years later
+Bibliography
+23. Welcome to the dark side
+22. Me too
+21. What now?
+20. You must be ignorant
+19. Was the pressure too much?
+18. I'm praying for you
+17. You made me cry
+16. Repent or die
+15. I am not an axe-murderer
+14. Did you hear about the guy...?
+13. Drink the magic potion
+12. Does God make mistakes?
+11. Artefacts and anachronisms
+10. Evolving views on creation
+9. Legend of the empty tomb
+8. The biblical crystal ball
+7. Thank God
+6. What are the chances?
+5. Talking to myself
+4. What would convince you?
+3. Which is the better story?
+2. An end of faith
+1. No reason to believe
+Preface
+Plotting overlapping prediction intervals
+rOpenSci unconference in Brisbane 21-22 April 2016
+Monash Business Analytics Team Profile
+Model variance for ARIMA models
+On sampling methods for costly multi-objective black-box optimization
+Omitting outliers
+Making data analysis easier: Hadley Wickham at WOMBAT2016
+Making forecasting easier: forecast v7 for R
+Electricity price forecasting competition
+Forecasting uncertainty in electricity smart meter data by boosting additive quantile regression
+Fast computation of reconciled forecasts for hierarchical and grouped time series
+Bayesian rank selection in multivariate regression
+What's your Hall number?
+Probabilistic Energy Forecasting: Global Energy Forecasting Competition 2014 and Beyond
+Long-term forecasts of age-specific participation rates with functional data models
+ACEMS Business Analytics Prize 2016
+Farewell Peter Hall (1951-2016)
+Another look at forecast-accuracy metrics for intermittent demand
+Measuring forecast accuracy
+Starting a career in data science
+Making data analysis easier
+RStudio just keeps getting better
+Who's downloading the forecast package?
+The hidden benefits of open-source software
+ODI looking for young postgrad statisticians
+Piecewise linear trends
+Forecasting big time series data using R
+forecast package v6.2
+Stanford seminar
+Optimal forecast reconciliation for big time series data
+Google workshop: Forecasting and visualizing big time series data
+Reproducibility in computational research
+Chinese R conference
+Upcoming talks in California
+International Symposium on Forecasting: Spain 2016
+Unbelievable
+IJF vol 31(4): Forecasting in telecommunications and ICT
+Advice to other journal editors
+Mathematical annotations on R plots
+New IJF editors
+Machine learning bootcamp
+Statistical issues with using herbarium data for the estimation of invasion lag-phases
+The bias-variance decomposition
+Murphy diagrams in R
+Useful tutorials
+Exploring the feature space of large collections of time series
+My Yahoo talk is now online
+Keeping up to date with my research papers
+Exploring the boundaries of predictability: what can we forecast and when should we give up?
+Automatic algorithms for time series forecasting
+IJF best paper awards
+MEFM: An R package for long-term probabilistic forecasting of electricity demand
+Probabilistic forecasting of peak electricity demand
+North American seminars: June 2015
+Do human rhinovirus infections and food allergy modify grass pollen–induced asthma hospital admissions in children?
+Probabilistic time series forecasting with boosted additive models: an application to smart meter data
+R vs Autobox vs ForecastPro vs ...
+Large-scale unusual time series detection
+A new R package for detecting unusual time series
+Visualization of big time series data
+Probabilistic forecasting of long-term peak electricity demand
+Modelling the participation function with a one-parameter family of cubic splines
+New in forecast 6.0
+More changes to the IJF editorial board
+Nominations for IJF Best Paper 2012-2013
+Thinking big at Yahoo
+Travelling Thilaksha
+Feeling the FPP love
+Paperpile makes me more productive
+Help
+Discussion of “High-dimensional autocovariance matrices and optimal linear prediction”
+A new open source data set for detecting time series outliers
+Change to the IJF editors
+What to cite?
+Dark themes for writing
+Common reasons for rejection
+Visualization and forecasting of big time series data
+Statistical modelling and analysis of big data
+Thanks Paul and welcome Dilek
+Standard error: a poem
+IASC Data Analysis Competition 2015
+RSS feeds for statistics and related journals
+Visualizing and forecasting big time series data
+Seminars in Taiwan
+Di Cook is moving to Monash
+New R package for electricity forecasting
+Am I a data scientist?
+Honoring Herman Stekler
+Am I a data scientist?
+Prediction competitions
+New Australian data on the HMD
+Visualization of probabilistic forecasts
+IJF review papers
+Seasonal periods
+ABS seasonal adjustment update
+Jobs at Amazon
+Prediction intervals too narrow
+Optimally reconciling forecasts in a hierarchy
+hts with regressors
+Congratulations to Dr Souhaib Ben Taieb
+Explaining the ABS unemployment fluctuations
+Seasonal adjustment in the news
+Connect with local employers
+IIF Sponsored Workshops
+TBATS with regressors
+Forecasting: principles and practice (UWA course)
+FPP now available as a downloadable e-book
+Tim Harford on forecasting
+Generating quantile forecasts in R
+Resources for the FPP book
+A new candidate for worst figure
+Outdoor fungal spores are associated with child asthma hospitalisations - a case-crossover study
+Forecasting with R in WA
+biblatex for statisticians
+GEFCom 2014 energy forecasting competition is underway
+Visit of Di Cook
+What not to say in a job interview
+Minimal reproducible examples
+Efficient identification of the Pareto optimal set
+Student forecasting awards from the IIF
+Coherent population forecasting using R
+Plotting the characteristic roots for ARIMA models
+I am not an econometrician
+Variations on rolling forecasts
+Fast computation of reconciled forecasts in hierarchical and grouped time series
+Functional time series with applications in demography
+Challenges in forecasting peak electricity demand
+Varian on big data
+Specifying complicated groups of time series in hts
+European talks. June-July 2014
+Creating a handout from beamer slides
+Low-dimensional decomposition smoothing and forecasting of sparse functional data
+State space models
+Data science market places
+Common functional principal component models for mortality forecasting
+Structural breaks
+Monash Electricity Forecasting Model
+To explain or predict?
+Questions on the business analytics jobs
+ARIMA models with long lags
+New jobs in business analytics at Monash
+Great papers to read
+Past present and future of statistical science
+Publishing an R package in the Journal of Statistical Software
+Seven forecasting blogs
+Errors on percentage errors
+Generating tables in LaTeX
+My forecasting book now on Amazon
+Job at Center for Open Science
+Interpreting noise
+Getting a LaTeX system set up
+A gradient boosting approach to the Kaggle load forecasting competition
+Cover of my forecasting textbook
+Fast computation of cross-validation in linear models
+Probabilistic forecasting by Gneiting and Katzfuss (2014)
+Testing for trend in ARIMA models
+Unit root tests and ARIMA models
+Using old versions of R packages
+IJF news
+Highlighting the web
+Forecasting weekly data
+Fitting models to short time series
+Fitting models to long time series
+The forecast mean after back-transformation
+Statistical politicians
+Forecasting within limits
+Backcasting in R
+Global energy forecasting competitions
+Automatic time series forecasting
+Hierarchical forecasting with hts v4.0
+Detecting seasonality
+Interview for the Capital of Statistics
+Top papers in the International Journal of Forecasting
+Computational Actuarial Science with R
+Monash Econometrics in the top 10
+Automatic time series forecasting in Granada
+Free books on statistical learning
+Online collaborative writing
+New in forecast 5.0
+Thoughts on the Ljung-Box test
+Looking for a new post-doc
+Estimating a nonlinear time series model in R
+Boosting multi-step autoregressive forecasts
+Prospective life tables
+Judgmental forecasting experiment
+How to get your paper rejected quickly
+Nonparametric and semiparametric response surface methodology: a review of designs models and optimization techniques
+Probabilistic Energy Forecasting
+Coherent mortality forecasting using functional time series
+Forecasting hierarchical time series
+Robert G Brown (1923-2013)
+Forecasting with daily data
+MAXIMA research centre at Monash Uni
+Reflections on UseR! 2013
+Asking good questions
+Facts and fallacies of the AIC
+R tools for hierarchical time series
+End of Google Reader
+Future ISFs
+Forecasting without forecasters
+Managing research ideas
+IJF quality indicators
+Forecasting annual totals from monthly data
+Establishing priority
+My new forecasting book is finally finished
+George E P Box (1919-2013)
+The difference between prediction intervals and confidence intervals
+ETS models now in EViews 8
+Removing white space around R figures
+Forecasting conferences
+Hyndsight
+Out-of-sample one-step forecasts
+Statistical consulting in Australia
+Man vs wild data
+Coherent mortality forecasting: the product-ratio method with functional time series models
+Batch forecasting in R
+A change of editors
+Man vs Wild Data
+New in forecast 4.0
+SimpleR: tips tricks and tools
+Makefiles for R/LaTeX projects
+YSC2013 funding support
+LaTeX loops
+The Young Stats Communication Challenge
+Forecasting research grants
+Why are some things easier to forecast than others?
+Multivariate time series modelling and forecasting workshop
+Recursive and direct multi-step forecasting: the best of both worlds
+COMPSTAT2012
+Flat forecasts
+Interviews
+Blogs about research
+Read the literature
+Put your pre-prints online
+Bare bones beamer
+Forecasting the Olympics
+A case-crossover design to examine the role of aeroallergens and respiratory viruses on childhood asthma exacerbations requiring hospitalisation: The MAPCAH study
+Advances in automatic time series forecasting
+Constants and ARIMA models in R
+My new forecasting textbook
+Blog aggregators
+Seeking help
+Measuring time series characteristics
+Google scholar metrics
+Data visualization
+Exponential smoothing and regressors
+Academia StackExchange
+Mailing lists
+Table design
+Short-term load forecasting based on a semi-parametric additive model
+Following authors on Google Scholar
+Forecasts of COPD mortality in Australia: 2006-2025
+Refereeing a journal article
+Internet surveys
+Forecasting time series with complex seasonal patterns using exponential smoothing
+Are we getting better at forecasting?
+Organizing travel
+Forecasting time series using R
+Cyclic and seasonal time series
+The art of R programming
+Kaggle on TV
+Researcher portals
+What you wish you knew before you started a PhD
+Forecasting time series using R
+Forecasting electricity demand distributions using a semiparametric additive model
+Help for forecasting practitioners
+The scourge of the academic publishers
+Time series cross-validation: an R example
+Major changes to the forecast package
+Crowd sourcing forecasts
+Learn Machine Learning at Stanford for free
+Beware of junk journals and publishers
+Recommended survey papers
+Social networking for researchers
+Investigating the influence of synoptic-scale circulation on air quality using self-organizing maps and generalized additive modelling
+Point and interval forecasts of mortality rates and life expectancy: a comparison of ten principal component methods
+Method for optimizing coating properties based on an evolutionary algorithm approach
+Giving a useR! talk
+Evaluating extreme quantile forecasts
+Comparing HoltWinters() and ets()
+Tourism forecasting: an introduction
+The price elasticity of electricity demand in South Australia
+I'm switching to TeXstudio
+Looking after your supervisor
+Optimal combination forecasts for hierarchical time series
+Ten rules for data analysis
+Statistical tests for variable selection
+Improved interval estimation of long run response from a dynamic linear model: a highest density region approach
+RStudio: just what I've been looking for
+Nonparametric time series forecasting with dynamic updating
+The value of feedback in forecasting competitions
+Lies damn lies and statistics
+Six places left for the forecasting workshop
+Authorship ethics
+Becoming a referee
+Tips for academic talks
+The tourism forecasting competition
+Quantifying the influence of local meteorology on air quality using generalized additive modelling
+In praise of Dropbox
+CrossValidated Journal Club
+Hamming on research
+Forecasting workshop: Switzerland June 2011
+Data visualization videos
+Initializing the Holt-Winters method
+A LaTeX template for a CV
+Tourism forecasting competition ends
+Free open-source forecasting using R
+The vector innovations structural time series framework: a simple approach to multivariate forecasting
+Forecast estimation evaluation and transformation
+CrossValidated launched!
+Different results from different software
+Getting started with XeLaTeX
+How to avoid annoying a referee
+Happy World Statistics Day!
+Do something else
+Animated plots in R and LaTeX
+Always listen to reviewers
+Joining an editorial board
+Why R is better than Excel for teaching statistics
+The ARIMAX model muddle
+Why every statistician should know about cross-validation
+That syncing feeling
+Forecasting with long seasonal periods
+Tourism forecasting competition results: part one
+Your name is your brand
+Demographic forecasting using functional data analysis
+How to fail a PhD
+Econometrics and R
+Job advertisements
+Benchmarks for forecasting
+Phenological change detection while accounting for abrupt and gradual trends in satellite image time series
+Transforming data with zeros
+The tourism forecasting competition
+Twenty rules for good graphics
+Exploratory graphics for functional data
+Statistical Analysis StackExchange site now available
+Short-term load forecasting based on a semi-parametric additive model
+More StackExchange sites
+The falling standard of English in research
+Academic citations in the popular press
+Forecasting with Exponential Smoothing: the State Space Approach
+Forecasting: methods and applications
+Musings
+Use fake data and real data
+Should you make your working papers public?
+Coherent functional forecasts of mortality rates and life expectancy
+Update on a StackExchange site for statistical analysis
+Google scholar alerts
+Online mathematical resources
+Scheduling meetings
+Forecasting age-related changes in breast cancer mortality among white and black US women
+A StackExchange site for statistical analysis?
+Making a poster in beamer
+My standard LaTeX preamble
+Using the command line in Windows
+Rainbow plots bagplots and boxplots for functional data
+Top four LaTeX mistakes
+Why referee?
+Writing a referee report
+Functionalization of microarray devices: process optimization using a multiobjective PSO and multiresponse MARS modeling
+Using functional data analysis models to estimate future time trends of age-specific breast cancer mortality for the United States and England-Wales
+Detecting trend and seasonal changes in satellite image time series
+Density forecasting for long-term peak electricity demand
+Business Forecasting Methods
+Forecasting Overview
+Moving Averages
+Encouraging replication and reproducible research
+Changing of the guard
+Using DOIs
+Replications and reproducible research
+Exponential smoothing and non-negative data
+Learning by video
+Controlling figure and table placement in LaTeX
+More on the evils of statistical tests
+"Elements of Statistical Learning" now online
+Using personal pronouns in research writing
+Attending research seminars
+Squeezing space with LaTeX
+Converting eps to pdf
+The 7 secrets of highly successful PhD students
+Writing an abstract
+Workflow in R
+Writing mathematics
+Take a break
+Finding an R function
+Statistics education journals
+Mathematical research and the internet
+How good are economic forecasts?
+Research supervision workshop
+Seek help when it's needed
+Why I don't like statistical tests
+R help on StackOverflow
+Backing up
+Forecasting the recession
+Maintaining local LaTeX files
+Sight what you cite
+Songs of Statistics
+Writing responses to referee reports
+Managing a bibliographic database
+Finding LaTeX symbols
+Forecasting functional time series
+Why Word is a bad choice for academic writing
+Mathematical genealogy
+Searching the research literature
+Nonparametric time series forecasting with dynamic updating
+Monitoring processes with changing variances
+English academic writing
+Extreme forecasting
+Clive Granger (1934-2009)
+Akram's story
+Prediction markets
+Statistical support for HDR students
+Neil Postman on technological change
+Accessing journal articles online
+Statistician: the dream job
+Rule induction for forecasting method selection: meta-learning the characteristics of univariate time series
+Hierarchical forecasts for Australian domestic tourism
+A multivariate innovations state space Beveridge-Nelson decomposition
+Forecasting time series with multiple seasonal patterns
+Forecasting without significance tests?
+Time series packages on R
+LaTeX tips
+Tracking changes in LaTeX files
+Tracking changes in text files
+Supervision award
+LaTeX books
+Time management
+Forecasting and the importance of being uncertain
+Stochastic population forecasts using functional data models for mortality fertility and migration
+Automatic time series forecasting: the forecast package for R
+Building R packages for Windows
+Time series and forecasting in R
+Bagplots boxplots and outlier detection for functional data
+The admissible parameter space for exponential smoothing models
+Exponential smoothing and non-negative data
+LaTeX workshop
+Words to avoid
+Bagplots boxplots and outlier detection for functional data
+Giving a research seminar
+Forecasting and time series books
+R workshop
+Creating a BibTeX file from a Google Library
+The maths/stats crisis in Australian education
+Dodgy forecasting
+About Hyndsight
+Forecasting functional time series
+Modelling and forecasting Australian domestic tourism
+Generation of synthetic sequences of half-hourly temperatures
+Population forecasting and the importance of being uncertain
+Indexing in LaTeX
+Tables in LaTeX
+Graduation address
+Searching the statistical literature
+Organization and R
+Debugging in R
+Measurement of changes in antihypertensive drug utilization following primary care educational interventions
+Robust forecasting of mortality and fertility rates: a functional data approach
+Do levels of airborne grass pollen influence asthma hospital admissions?
+Forecasting medium- and long-term peak electricity demand
+A state space model for exponential smoothing with group seasonality
+Half-life estimation based on the bias-corrected bootstrap: a highest density region approach
+Minimum sample size requirements for seasonal forecasting models
+Stochastic population forecasts using functional data models
+Forecasting age-specific breast cancer mortality using functional data models
+Another look at measures of forecast accuracy
+Forecasting and the importance of being uncertain
+Lee-Carter mortality forecasting: a multi-country comparison of variants and extensions
+Projection pursuit estimator for multivariate conditional densities
+Another look at measures of forecast accuracy for intermittent demand
+A note on the categorization of demand patterns
+Useful LaTeX links
+A Bayesian approach to bandwidth selection for multivariate kernel density estimation
+25 years of time series forecasting
+Twenty-five years of forecasting
+Automatic time series forecasting
+Optimal combination forecasts for hierarchical time series
+Characteristic-based clustering for time series data
+Measuring change in prescription drug utilization in Australia
+Local linear multivariate regression with variable bandwidth in the presence of heteroscedasticity
+The accuracy of television network rating forecasts: the effects of data aggregation and alternative models
+Sensitivity of the estimated air pollution-respiratory admissions relationship to statistical model
+Empirical information criteria for time series forecasting model selection
+Stochastic models underlying Croston's method for intermittent demand forecasting
+Book Review of "Data Analysis and Graphics Using R: An Example-based Approach" (Maindonald and Braun 2003)
+Dimension reduction for clustering time series using global characteristics
+Robust forecasting of mortality and fertility rates: a functional data approach
+Time series forecasting: the case for the single source of error state space approach
+Prediction intervals for exponential smoothing using two new classes of state space models
+Local linear forecasts using cubic smoothing splines
+Editorial
+The interaction between trend and seasonality
+Nonparametric confidence intervals for receiver operating characteristic curves
+Exponential smoothing models: Means and variances for lead-time demand
+Spline interpolation for demographic variables: the monotonicity problem
+Normative data for the Test of Visual Analysis Skills on an Australian population
+Statistical jokes
+Unmasking the Theta method
+Improved methods for bandwidth selection when estimating ROC curves
+Mixed model-based hazard estimation
+Nonparametric estimation and symmetry tests for conditional density functions
+A state space framework for automatic forecasting using exponential smoothing methods
+Kalman filter
+Box-Jenkins modelling
+ARIMA processes
+Using R to Teach Econometrics
+Cycles and synchrony in the Collared Lemming (Dicrostonyx groenlandicus) in Arctic North America
+It's time to move from 'what' to 'why'
+Data visualization for time series in environmental epidemiology
+Statistical methodological issues in studies of air pollution and respiratory disease
+Bandwidth selection for kernel conditional density estimation
+Non-Gaussian conditional linear AR(1) models
+Residual diagnostic plots for model mis-specification in time series regression
+Seasonal adjustment methods for the analysis of respiratory disease in environmental epidemiology
+Book review of "Nonparametric econometrics" (Pagan and Ullah 1999)
+Generalized additive modelling of mixed distribution Markov models with application to Melbourne's rainfall
+Book Review of "A primer of mathematical writing" (Krantz 1997) and "Handbook of writing for the mathematical sciences" (Higham 1998)
+Book review of "Statistically speaking: a dictionary of quotations" (Gaither and Cavazos-Gaither 1996)
+Book review of "Chance encounters: a first course in data analysis and inference" (Wild & Seber 2000)
+Nonparametric additive regression models for binary time series
+Smoothing non-Gaussian time series with autoregressive structure
+Book Review of "Smoothing methods in Statistics" (Simonoff 1996)
+Book review of "Leading personalities in the Statistical Sciences: from the seventeenth century to the present" (Johnson and Kotz 1998)
+Nonparametric autocovariance function estimation
+Some properties and generalizations of non-negative Bayesian time series models
+The pricing and trading of options using a hybrid neural network model with historical volatility
+Sample quantiles in statistical packages
+Estimating and visualizing conditional densities
+Computing and graphing highest density regions
+Book review of "Kernel smoothing" (Wand and Jones 1995)
+A unified view of linear AR(1) models
+Highest density forecast regions for non-linear and non-normal time series models
+The use of information technology in the research process
+The problem with Sturges' rule for constructing histograms
+Approximations and boundary conditions for continuous time threshold autoregressive processes
+Yule-Walker estimates for continuous-time autoregressive models
+Continuous-time threshold autoregressive modelling
+On continuous-time threshold autoregression
+Continuous time threshold autoregressive models
+Calculating the odds
+
+
+About me
+Handling papers as an IJF associate editor
+Handling papers as an IJF editor
+Handling papers as an IJF guest editor
+In the news
+Research team
